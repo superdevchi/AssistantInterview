@@ -16,7 +16,7 @@
 > **TL;DR**  
 > **Sentinel** records your screen (with consent), ships captures to an **AI processor**, and returns structured **summaries, entities, tasks, and links** you can search later.  
 > Built with a **Swift** client and a **Java Spring** backend. Uses **WebSockets** for live alerts/progress, and both **OpenAI** and **Grok** for multi-model analysis.  
-> Backend repo will be linked here: **[Backend API → (add your link)](#)**.
+> Backend repo will be linked here: **[Backend API → (https://github.com/superdevchi/websocketassistant/tree/main**.
 
 ---
 
@@ -142,7 +142,7 @@
 
 ## 🔗 Repositories
 
-- **Backend (Java Spring):** [add your link here](#)  
+- **Backend (Java Spring):** https://github.com/superdevchi/websocketassistant/tree/main )  
 - **Client (Swift):** current repo
 
 ---
